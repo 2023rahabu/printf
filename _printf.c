@@ -12,7 +12,7 @@ int _printf(const char *format, ...)
 	va_list mine;
 
 	StructPrint array[] = {{"c", customC}, {"s", customS}, {"%", customP},
-	{"d", customDec}, {"u", customUn},
+	{"d", customDec}, {"u", customUn}, {"b", customB},
 		{"i", customDec},  {"S", customS}
 	};
 	va_start(mine, format);
