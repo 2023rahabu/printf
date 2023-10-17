@@ -1,10 +1,10 @@
-#include "printf_functions.h"
+#include "main.h"
 /**
- *mine_puts - function for printing string
+ *_puts - function for printing string
  *@str: parameter string
  *Return: character count
  */
-int mine_puts(char *str)
+int _puts(char *str)
 {
 	int count;
 

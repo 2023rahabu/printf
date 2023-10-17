@@ -1,4 +1,4 @@
-#ainclude "printf_functions.h"
+#include "main.h"
 
 /**
  * _printf - function that acts exactly like printf

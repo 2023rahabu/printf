@@ -1,4 +1,4 @@
-#include "printf_functions.h"
+#include "main.h"
 
 /**
 * customC - function prints a character
